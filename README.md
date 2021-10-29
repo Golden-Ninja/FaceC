@@ -8,7 +8,11 @@ Documentation:
 # Box Face Detector:
 
 import FaceC
+
+
 image = FaceC.FaceDetector
+
+
 image.showImage("Key to close the window", "Name of Window (OPTIONAL)")
 
 # 
